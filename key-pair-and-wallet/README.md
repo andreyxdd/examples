@@ -24,7 +24,7 @@ console.log(TonWeb.utils.bytesToHex(keyPair2.publicKey));
 console.log(TonWeb.utils.bytesToHex(keyPair2.secretKey));
 ```
 
-Note that we can get the key pair from mnemonic words, but we CANNOT get mnemonic words from a key pair.
+Note that we can get the key pair from mnemonic words, but we _cannot_ get mnemonic words from a key pair.
 
 ## Wallet
 
