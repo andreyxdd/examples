@@ -16,7 +16,7 @@ console.log(TonWeb.utils.bytesToHex(keyPair.publicKey));
 console.log(TonWeb.utils.bytesToHex(keyPair.secretKey));
 ```
 
-2. Alternatively, we can enerate a new random key pair directly via [TweetNaCl library](https://www.npmjs.com/package/tweetnacl).
+2. Alternatively, we can generate a new random key pair directly via [TweetNaCl library](https://www.npmjs.com/package/tweetnacl).
 ```js
 const keyPair = TonWeb.utils.nacl.sign.keyPair();
 
