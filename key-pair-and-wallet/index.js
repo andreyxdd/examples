@@ -23,7 +23,6 @@ const createKeyPair = async () => {
 
 createKeyPair();
 
-
 /**
  * @param keyPair {nacl.SignKeyPair}
  */
