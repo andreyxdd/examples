@@ -1,6 +1,6 @@
 # Creating a Key Pair and a Wallet
 
-Every account (or wallet that stores the coin balance) in the blockchain is defined by its private key. The private key is accessible only to the account holder. In this example, we'll look at how to create a key pair and a new wallet.
+Every account (or wallet that stores the coin balance) in the blockchain is defined by its private key. The private key is accessible only to the account holder. In this example, we'll take a look at how to create a key pair and a new wallet in the TON blockchain.
 
 ## Key Pair
 
