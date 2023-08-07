@@ -52,4 +52,7 @@ console.log(address.toString(true, true, true));
 
 The above steps are done offline, meaning the created wallet smart contract hasn't been deployed to the network yet. The deployment of the wallet smart contract happens automatically with the first outgoing transfer. However, to make this outgoing transfer, the Toncoins must first be deposited to the newly generated wallet address.
 
+
+
+##
 See the complete code example [here](./index.js).
